@@ -9,6 +9,8 @@
 
 https://tkdocs.com/tutorial/text.html#marks
 https://stackoverflow.com/a/7663455/2215534
+https://web.archive.org/web/20200123234531/http://effbot.org/tkinterbook/tkinter-events-and-bindings.htm
+
 
 Tkinter Events
 ==============
